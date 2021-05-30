@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "New Unity Project",
-"productVersion": "1.0",
+"companyName": "Gaudi Games",
+"productName": "Teeokratie",
+"productVersion": "0.1",
 "dataUrl": "WebGl1.data.unityweb",
 "wasmCodeUrl": "WebGl1.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGl1.wasm.framework.unityweb",
